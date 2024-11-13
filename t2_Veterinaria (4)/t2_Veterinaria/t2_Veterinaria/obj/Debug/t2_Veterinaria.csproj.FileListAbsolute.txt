@@ -1,0 +1,7 @@
+C:\Users\Jafet\source\repos\t2_Veterinaria\t2_Veterinaria\bin\Debug\t2_Veterinaria.exe.config
+C:\Users\Jafet\source\repos\t2_Veterinaria\t2_Veterinaria\bin\Debug\t2_Veterinaria.exe
+C:\Users\Jafet\source\repos\t2_Veterinaria\t2_Veterinaria\bin\Debug\t2_Veterinaria.pdb
+C:\Users\Jafet\source\repos\t2_Veterinaria\t2_Veterinaria\obj\Debug\t2_Veterinaria.csproj.AssemblyReference.cache
+C:\Users\Jafet\source\repos\t2_Veterinaria\t2_Veterinaria\obj\Debug\t2_Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Jafet\source\repos\t2_Veterinaria\t2_Veterinaria\obj\Debug\t2_Veterinaria.exe
+C:\Users\Jafet\source\repos\t2_Veterinaria\t2_Veterinaria\obj\Debug\t2_Veterinaria.pdb
